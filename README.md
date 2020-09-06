@@ -1,4 +1,4 @@
-# textscan
+# Product Origin Application
 
 A new Flutter application.
 
