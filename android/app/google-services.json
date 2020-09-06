@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424204310594",
+    "firebase_url": "https://delhihacks-dffa9.firebaseio.com",
+    "project_id": "delhihacks-dffa9",
+    "storage_bucket": "delhihacks-dffa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424204310594:android:0f17febb8f06d63374f5db",
+        "android_client_info": {
+          "package_name": "com.textscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424204310594-i745kicfbcfcpt6rnd47oor4oupk37lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZPnaWUMbODsD3Ox_x1w97ModLilQgwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424204310594-i745kicfbcfcpt6rnd47oor4oupk37lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
