@@ -1,6 +1,9 @@
 # Product Origin Application
 
 A new Flutter application.
+Check how the project looks:
+https://youtu.be/aaxXxbib37U
+
 
 ## Getting Started
 
