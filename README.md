@@ -4,6 +4,9 @@ A new Flutter application.
 Check how the project looks:
 https://youtu.be/aaxXxbib37U
 
+# Here's a link to see the working of the app
+
+https://youtu.be/aaxXxbib37U
 
 ## Getting Started
 
